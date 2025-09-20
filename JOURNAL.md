@@ -126,3 +126,12 @@ I took a little break to work on other things, but i am back. Some people gave m
 ![schematic on september the 19th](images/sep19_2.png)
 
 **Total time spent: 2h**
+
+# September 20th: Finished the PCB and submitted:
+
+I heard back from the community and moved the esp32 so that the antenna was at the edge. I also moved the headphone jack so i t was at the edge. Now i am going through the lengthy process of submitting the pcb.
+
+![schematic on september the 20th](images/sep20.png)
+![schematic on september the 20th](images/sep20_1.png)
+
+**Total time spent: 1h**
