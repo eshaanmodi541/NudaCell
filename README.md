@@ -1,9 +1,9 @@
-# SmartMP3  
+# TouchMP3  
 
 ## Description  
-SmartMP3 is a DIY MP3 player I’ve been building from scratch. It’s powered by an ESP32-S3 and uses a touchscreen for control instead of buttons. The goal is to make something that feels like a modern device, but is completely custom-built and designed at the PCB level.  
+TouchMP3 is a DIY MP3 player I’ve been building from scratch. It’s powered by an ESP32-S3 and uses a touchscreen for control instead of buttons. The goal is to make something that feels like a modern device, but is completely custom-built and designed at the PCB level.  
 
-I wanted this project to be more than just “play music.” With the parts I’ve chosen, SmartMP3 can handle audio playback, recording, and charging, all while staying compact and portable.  
+I wanted this project to be more than just “play music.” With the parts I’ve chosen, TouchMP3 can handle audio playback, recording, and charging, all while staying compact and portable.  
 
 ## Images
 Check in the images folder for all the images
